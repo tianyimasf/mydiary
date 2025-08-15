@@ -1,0 +1,50 @@
+# Flutter/Dart/Pub
+**/doc/api/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+
+# Android
+/android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/.idea/
+android/captures/
+*.iml
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Flutter/ephemeral/
+*.lock
+*.xcuserstate
+*.xcworkspace
+
+# Web
+/web/.dart_tool/
+build/web/
+
+# VS Code
+.vscode/
+
+# IntelliJ/Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Misc
+*.log
+*.tmp
+*.swp
+.DS_Store
