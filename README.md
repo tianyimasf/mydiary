@@ -2,7 +2,7 @@
 
 A macOS app to sketch an app prototype you want to build, or a personal blog where you can write private journals and publish articles, poetry and skits with asthetic customization.
 
-The point is, you control your valuable data.
+The point is, you control your valuable data. Because everything is local unless you want to publish them.
 
 ---
 
